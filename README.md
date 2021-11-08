@@ -22,6 +22,7 @@ You can click the Preview link to take a look at your changes.
 <sub>*Aprendiz de Cientista de dados* </sub>
 
 Minha vida profissional esta ligada a programação em linguagem PHP, utilizando framework codeigniter, trabalhando em projetos de manutenção de rotinas legadas (remendador de código alheio), com conhecimentos em bancos de dados relacionais Oracle, Microsoft SQL, MySQL, durante alguns anos utilizei ZIM (penso ter sido a primeira ferramenta integrada de programação, banco de dados e dicionario de dados), programei em Visual basic e estudei durante algum tempo JAVA e seu universo, atualmente migrei para Python.
+Ah! Antes que você me pergunte, conheço HTML, CSS, JavaScript, também trabalhei com implatanção de sistemas ERP, treinamento, levantamento de requisitos.
 
 **Conhecimentos em:** PHP, JAVA, SQL,Python
 
