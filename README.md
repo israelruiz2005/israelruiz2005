@@ -29,7 +29,7 @@ Ah! Antes que você me pergunte, conheço HTML, CSS, JavaScript, também trabalh
 **Links**
 * [LinkedIn](https://www.linkedin.com/in/ruiz-israel)
 
-## Projetos:
+## Projetos Python:
 Aqui alguns dos projetos
 * **Nuvem de palavras:** https://github.com/israelruiz2005/python_nuvem_palavras
 * **Web scraping:** https://github.com/israelruiz2005/python/blob/main/linkedin_scraping%20_bem_ou_mal.py
@@ -37,3 +37,8 @@ Aqui alguns dos projetos
 * **Estudando a biblioteca Pandas** https://github.com/israelruiz2005/projetos_pandas/blob/main/O_que_%C3%A9_o_pandas.ipynb
 * **Estudando a biblioteca Pandas-Parte 2** https://github.com/israelruiz2005/projetos_pandas/blob/main/Introdu%C3%A7%C3%A3o_ao_pandas_parte_2.ipynb
 * **Projeto estudo Python Django** https://github.com/israelruiz2005/agenda
+
+## Projetos Java:
+Aqui alguns dos projetos
+* **Projeto estudo API cities** https://github.com/israelruiz2005/citiesapi
+ **Projeto estudo API person*** https://github.com/israelruiz2005/personapi
