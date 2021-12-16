@@ -41,4 +41,4 @@ Aqui alguns dos projetos
 ## Projetos Java:
 Aqui alguns dos projetos
 * **Projeto estudo API cities** https://github.com/israelruiz2005/citiesapi
- **Projeto estudo API person*** https://github.com/israelruiz2005/personapi
+* **Projeto estudo API person*** https://github.com/israelruiz2005/personapi
