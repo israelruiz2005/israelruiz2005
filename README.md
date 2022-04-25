@@ -51,6 +51,4 @@ Aqui alguns dos projetos
 Projetos acadêmicos ou apenas de treinamento
 
 * **Projeto estudo template HTML, FLEXBOX** https://github.com/israelruiz2005/projetoAwax
-* **Projeto estudo API person** https://github.com/israelruiz2005/personapi
-* **Projeto estudo API beer com Teste** https://github.com/israelruiz2005/beer_api_digital_innovation_one-master
-* **Projeto estudo API sala reuniao com Teste** https://github.com/israelruiz2005/Crud-Spring-liveCoding-Dio-master
+
