@@ -37,10 +37,20 @@ Aqui alguns dos projetos
 * **Estudando a biblioteca Pandas** https://github.com/israelruiz2005/projetos_pandas/blob/main/O_que_%C3%A9_o_pandas.ipynb
 * **Estudando a biblioteca Pandas-Parte 2** https://github.com/israelruiz2005/projetos_pandas/blob/main/Introdu%C3%A7%C3%A3o_ao_pandas_parte_2.ipynb
 * **Projeto estudo Python Django** https://github.com/israelruiz2005/agenda
+* **Projeto criaçao de pacote** https://github.com/israelruiz2005/texto_no_espelho_package
+* **Projeto desafio spark** https://github.com/israelruiz2005/dio-desafio-spark
 
 ## Projetos Java:
 Aqui alguns dos projetos
 * **Projeto estudo API cities** https://github.com/israelruiz2005/citiesapi
+* **Projeto estudo API person** https://github.com/israelruiz2005/personapi
+* **Projeto estudo API beer com Teste** https://github.com/israelruiz2005/beer_api_digital_innovation_one-master
+* **Projeto estudo API sala reuniao com Teste** https://github.com/israelruiz2005/Crud-Spring-liveCoding-Dio-master
+
+## Projetos Outros:
+Projetos acadêmicos ou apenas de treinamento
+
+* **Projeto estudo template HTML, FLEXBOX** https://github.com/israelruiz2005/projetoAwax
 * **Projeto estudo API person** https://github.com/israelruiz2005/personapi
 * **Projeto estudo API beer com Teste** https://github.com/israelruiz2005/beer_api_digital_innovation_one-master
 * **Projeto estudo API sala reuniao com Teste** https://github.com/israelruiz2005/Crud-Spring-liveCoding-Dio-master
