@@ -24,7 +24,15 @@ You can click the Preview link to take a look at your changes.
 Minha vida profissional esta ligada a programação em linguagem PHP, utilizando framework codeigniter, trabalhando em projetos de manutenção de rotinas legadas (remendador de código alheio), com conhecimentos em bancos de dados relacionais Oracle, Microsoft SQL, MySQL, durante alguns anos utilizei ZIM (penso ter sido a primeira ferramenta integrada de programação, banco de dados e dicionario de dados), programei em Visual basic e estudei durante algum tempo JAVA e seu universo, atualmente migrei para Python.
 Ah! Antes que você me pergunte, conheço HTML, CSS, JavaScript, também trabalhei com implatanção de sistemas ERP, treinamento, levantamento de requisitos.
 
-**Conhecimentos em:** PHP, JAVA, SQL, Python
+**Conhecimentos em:**
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg" width="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg"  width="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg"   width="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" width="50" />
+          
+          
+          
+          
+          
+          
 
 **Links**
 * [LinkedIn](https://www.linkedin.com/in/ruiz-israel)
